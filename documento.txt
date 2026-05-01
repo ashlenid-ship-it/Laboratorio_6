@@ -9,3 +9,8 @@ La multiplicación (x):
 2 x 8 = 14
 La división (/):
 8 / 2 = 4
+El exponente (^):
+2 ^ 3 = 8
+
+El módulo (%):
+10 % 3 = 1
