@@ -1,10 +1,15 @@
 Hola Mundo :)
 Fecha: 08.20.2025
-Titulo: Las operaciones Aritméticas------------------------------------
+Titulo: Las operaciones Aritméticas--------------------
 La suma (+):
 4 + 3 = 7
 La resta (-):
 3- 9 =-6
 La multiplicación (x):
 2 x 8 = 14
-La división
+La división (/):
+8 / 2 = 4
+El exponente (^):
+2 ^ 3 = 8
+El módulo (%):
+10 % 3 = 1
